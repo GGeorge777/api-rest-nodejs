@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node ace serve --watch",
-    "build": "node ace build --production"
+    "start": "node server.js"
+
   },
   "keywords": [],
   "author": "",
