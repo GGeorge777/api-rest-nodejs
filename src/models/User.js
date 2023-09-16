@@ -34,7 +34,7 @@ const UserSchema = new mongoose.Schema({
     },
     ultimo_login: {
         type: Date,
-        default: null,
+        default: Date.now,
     }
 });
 
