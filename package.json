@@ -18,6 +18,6 @@
     "mongoose": "^7.5.1"
   },
   "devDependencies": {
-    
+    "@adonisjs/cli": "^4.0.13"
   }
 }
