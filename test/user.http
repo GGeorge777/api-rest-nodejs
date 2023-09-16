@@ -7,10 +7,10 @@ POST http://localhost:3001/auth/register
 Content-Type: application/json
 
 {
-    "name": "Levi mateghgvgeues",
-    "email": "desenvolvedor.1rvede12322gmail.com",
-    "password": "lg233242vedfe34",
-    "telefone": "9348432edv20fe02387",
+    "name": "Levi fsfs",
+    "email": "desenvolvedor.dfd.com",
+    "password": "lg233242veddffe34",
+    "telefone": "234234",
     "ddd": "44"
 }
 
