@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
-
   },
   "keywords": [],
   "author": "",
@@ -15,8 +14,5 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.5.1"
-  },
-  "devDependencies": {
-    "@adonisjs/cli": "^4.0.13"
   }
 }
