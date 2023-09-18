@@ -1,5 +1,5 @@
 const mongoose = require("mongoose"); 
-mongoose.connect("mongodb+srv://MatheusDev:88420087@api-mongo.5of6pib.mongodb.net/", { useNewUrlParser: true })
+mongoose.connect("mongodb://mongo:cDkDmSZPLIY0MzmEjZPA@containers-us-west-205.railway.app:5790", { useNewUrlParser: true })
     .then(() => {
         console.log('Conectado ao MongoDB');
     })

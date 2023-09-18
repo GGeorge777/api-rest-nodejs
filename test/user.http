@@ -1,11 +1,11 @@
 # Cadastro do usuario
 
 #Teste localhost
-GET  https://localhost:80/auth/register:80/register
+GET  http://localhost:5790/register
 
 ###
 
-POST  https://localhost:80/auth/register
+POST  http://localhost:5790/auth/register
 Content-Type: application/json
 
 {
@@ -18,11 +18,11 @@ Content-Type: application/json
 
 ###
 #teste com URL
-GET  http://api-rest-nodejs-production-0433.up.railway.app:80/register
+GET  http://api-rest-nodejs-production-0433.up.railway.app:7236/register
 
 ###
 
-POST http://api-rest-nodejs-production-0433.up.railway.app:80/auth/register
+POST http://api-rest-nodejs-production-0433.up.railway.app:7236/auth/register
 Content-Type: application/json
 
 {
