@@ -17,12 +17,12 @@ Content-Type: application/json
 }
 
 ###
-#teste com URL
-GET  http://api-rest-nodejs-production-0433.up.railway.app:7236/register
+#teste com URL => api-rest-nodejs-production-0433.up.railway.app
+GET  https://api-rest-nodejs-production-0433.up.railway.app:5790/register
 
 ###
 
-POST http://api-rest-nodejs-production-0433.up.railway.app:7236/auth/register
+POST https://api-rest-nodejs-production-0433.up.railway.app:5790/auth/register
 Content-Type: application/json
 
 {
